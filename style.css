@@ -1,0 +1,26 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+pre {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 1rem;
+    overflow-x: auto;
+}
